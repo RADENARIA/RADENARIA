@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @RADENARIA
+- 👀 hello world
+- #include <stdio.h>
+- main()
+- {
+-   printf("hello, world\n");
+- }
